@@ -71,5 +71,6 @@ Poyecto final de la asignatura de Diseño de Videojuegos con tecnologias web.
       -Codigo de los efectos y utilidades
       -Codigo de los niveles
       -Codigo del HUD
-      -Codigo 
-      -Las animaciones , zona del codigo  
+      -Codigo de pantallas de Inicio , Ayuda y Creditos
+      -Codigo de cargado de datos
+      -Codigo de las animaciones  
