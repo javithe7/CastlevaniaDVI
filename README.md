@@ -32,3 +32,8 @@ Poyecto final de la asignatura de Diseño de Videojuegos con tecnologias web.
       -Arma a distancia: ataque secundario de nuestro jugador , util para eliminar enemigos a distancia , y especialmente importantes para la eliminacion de los bosses finales.
       
    -**Mecanicas de los enemigos**   
+       -*Zombie:* Corre en una direccion y al chocar contra una pared da la vuelta , si choca con el jugador le quita vida y da la vuelta tambien . Al morir deja un objeto que otorga puntos al jugador.
+       
+       -*Zombie:*
+       
+       
