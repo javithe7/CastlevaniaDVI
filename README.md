@@ -20,4 +20,15 @@ Poyecto final de la asignatura de Diseño de Videojuegos con tecnologias web.
    Para perder tanto en el juego original como en mi version siguen vigentes las mismas ideas, aunque con algun leve cambio. El jugador cuenta con 3 vidas para pasarse el juego , cada una de ellas compuesta por 16 bloques de salud. Si perdemos todos los bloques de salud o si caemos al vacio perdemos automaticamente una vida , y reiniciaríamos en la estancia en la que hemos muerto a menos que no nos quedara ninguna vida mas , en cuyo caso volveriamos al comienzo del juego.
    
    Cada una de las fases dispone de un contador de tiempo que se inicia a 300 segundos al principio del nivel , si el contador llega a 0 en cualquiera de las fases perdemos el juego automaticamente y comenzariamos en el principio.
+   ### 1.2-Principales Mecanicas
+   -**Mecanicas del protagonista** 
    
+      -Andar: desplazamiento horizontal a izquierda o derecha
+      
+      -Saltar: util para sobrepasar obstaculos y evitar enemigos
+      
+      -Ataque de latigo: ataque principal de nuestro protagonista, golpea en una direccion con el latigo y mata instantaneamente al enemigo al que golpee , excepto a los bosses que solo son debiles a armas a distancia.
+      
+      -Arma a distancia: ataque secundario de nuestro jugador , util para eliminar enemigos a distancia , y especialmente importantes para la eliminacion de los bosses finales.
+      
+   -**Mecanicas de los enemigos**   
