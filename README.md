@@ -53,7 +53,7 @@ Poyecto final de la asignatura de Diseño de Videojuegos con tecnologias web.
    
    -**Mecanicas de los Bosses**   
    
-     -Super Murcielago:
+     -Super Murcielago: Realiza movimientos erraticos ondulando de izquierda a derecha y dispara rondas de proyectiles de fuego cada cierto tiempo, al morir suelta un orbe que al recogerlo nos permitira atravesar la puerta hasta la siguiente fase.
      
-     -Medusa:
+     -Medusa: Se mueve sinusoidalmente de lado a lado y va soltando sus serpientes para dificultar al jugador . Solo es vulnerable a armas a distancia y al morir suelta el orbe que permite atravesar la puerta y finalizar el juego.
        
