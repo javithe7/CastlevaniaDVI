@@ -59,4 +59,17 @@ Poyecto final de la asignatura de Diseño de Videojuegos con tecnologias web.
    ### 1.3-Personajes
      En el juego solo hay un protagonista , Simon Belmont , que con ayuda de su latigo y arma a distancia debera derrotar a los enemigos citados previamente.
 ## 2-Diseño de la implementacion y arquitectura
-    El código del juego esta todo  en un unico  game.js ( tuve la intencion de cambiarlo al final  pero resultó dar mas problemas de los esperados para separarlo en diferentes scripts) , las imágenes en /images, los sonidos en /audio,  los .json y .tmx en /data
+
+    El código del juego esta todo  en un unico  game.js ( tuve la intencion de cambiarlo al final  pero resultó dar mas problemas de los esperados para separarlo en diferentes scripts) , las imágenes en /images, los sonidos en /audio,  los .json y .tmx en /data.
+    
+    El codigo se dispone de forma estructurado diferenciando zonas dentro del mismo , de esta forma se disponen de forma separada:
+      -El codigo del jugador , todo el codigo dedicado al funcionamiento del jugador
+      -Codigo de los Enemigos
+      -Codigo de los Bosses
+      -Codigo de las Armas
+      -Codigo de los objetos
+      -Codigo de los efectos y utilidades
+      -Codigo de los niveles
+      -Codigo del HUD
+      -Codigo 
+      -Las animaciones , zona del codigo  
