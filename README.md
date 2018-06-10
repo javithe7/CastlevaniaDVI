@@ -1,6 +1,6 @@
 # Castlevania I
 Poyecto final de la asignatura de Diseño de Videojuegos con tecnologias web.
-## 0-El Juego
+## Introduccion al al Juego
   **Año de publicación:** 1986.
   
   **Plataformas:** FDS, NES, Commodore 64, Amiga, DOS, Windows, Game Boy Advance y AT&T. 
@@ -60,10 +60,10 @@ Poyecto final de la asignatura de Diseño de Videojuegos con tecnologias web.
      En el juego solo hay un protagonista , Simon Belmont , que con ayuda de su latigo y arma a distancia debera derrotar a los enemigos citados previamente.
 ## 2-Diseño de la implementacion y arquitectura
 
-    El código del juego esta todo  en un unico  game.js ( tuve la intencion de cambiarlo al final  pero resultó dar mas problemas de los esperados para separarlo en diferentes scripts) , las imágenes en /images, los sonidos en /audio,  los .json y .tmx en /data.
+   El código del juego esta todo  en un unico  game.js ( tuve la intencion de cambiarlo al final  pero resultó dar mas problemas de los esperados para separarlo en diferentes scripts) , las imágenes en /images, los sonidos en /audio,  los .json y .tmx en /data.
     
-    El codigo se dispone de forma estructurado diferenciando zonas dentro del mismo , de esta forma se disponen de forma separada:
-      -El codigo del jugador , todo el codigo dedicado al funcionamiento del jugador
+    El codigo se dispone de forma estructurado en el archivo diferenciando zonas dentro del mismo , de esta forma se disponen de forma separada:
+      -Codigo del jugador 
       -Codigo de los Enemigos
       -Codigo de los Bosses
       -Codigo de las Armas
@@ -74,3 +74,6 @@ Poyecto final de la asignatura de Diseño de Videojuegos con tecnologias web.
       -Codigo de pantallas de Inicio , Ayuda y Creditos
       -Codigo de cargado de datos
       -Codigo de las animaciones  
+
+   Como principales componentes destacar el componente de 'shooterEnemy' para los enemigos que disparan , el componente 'patrolEnemy' para los que patrullan o el componente 'item' para los objetos.
+   
