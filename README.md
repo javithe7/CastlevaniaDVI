@@ -56,4 +56,7 @@ Poyecto final de la asignatura de Diseño de Videojuegos con tecnologias web.
      -Super Murcielago: Realiza movimientos erraticos ondulando de izquierda a derecha y dispara rondas de proyectiles de fuego cada cierto tiempo, al morir suelta un orbe que al recogerlo nos permitira atravesar la puerta hasta la siguiente fase.
      
      -Medusa: Se mueve sinusoidalmente de lado a lado y va soltando sus serpientes para dificultar al jugador . Solo es vulnerable a armas a distancia y al morir suelta el orbe que permite atravesar la puerta y finalizar el juego.
-       
+   ### 1.3-Personajes
+     En el juego solo hay un protagonista , Simon Belmont , que con ayuda de su latigo y arma a distancia debera derrotar a los enemigos citados previamente.
+## 2-Diseño de la implementacion y arquitectura
+    El código del juego esta todo  en un unico  game.js ( tuve la intencion de cambiarlo al final  pero resultó dar mas problemas de los esperados para separarlo en diferentes scripts) , las imágenes en /images, los sonidos en /audio,  los .json y .tmx en /data
