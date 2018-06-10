@@ -1,0 +1,4 @@
+{
+	"simon":{"sx":0,"sy":0,"tileW":16,"tileH":32,"frames":8},
+	"Latigo":{"sx":128,"sy":0,"tileW":24,"tileH":32,"frames":6}
+}
