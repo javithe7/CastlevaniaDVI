@@ -2,8 +2,11 @@
 Poyecto final de la asignatura de Diseño de Videojuegos con tecnologias web.
 ## 0-El Juego
   **Año de publicación:** 1986.
+  
   **Plataformas:** FDS, NES, Commodore 64, Amiga, DOS, Windows, Game Boy Advance y AT&T. 
+  
   **Distribuidores:**  Konami y Nintendo. 
+  
   ### Resumen de la Historia: 
   Nos ponemos en la piel de Simón Belmont, heredero de una famosa familia de caza vampiros de Transilvania, cuya    misión es matar a Drácula cada vez que este revive cada 100 años en su castillo.
   ### Jugabilidad:
