@@ -77,6 +77,8 @@ Proyecto final de la asignatura de Diseño de Videojuegos con tecnologias web.
 
    Como principales componentes destacar el componente de 'shooterEnemy' para los enemigos que disparan , el componente 'patrolEnemy' para los que patrullan o el componente 'item' para los objetos.
    
+   -Nota:Recalcar que el codigo no esta optimizado(Hay fragmentos de codigo repetido) , sino que busca mas el lograr un juego funcional usando los conocimientos sobre Quintus y javascript , debido a que finalmente ha sido una carga de trabajo bastante superior a la esperada para una sola persona en estas fechas tan concurridas. 
+   
  ## 3-Equipo de trabajo
  
    El juego ha sido realizado integra y unicamente por **Javier Antón Alonso**.
