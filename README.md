@@ -34,6 +34,6 @@ Poyecto final de la asignatura de Diseño de Videojuegos con tecnologias web.
    -**Mecanicas de los enemigos**   
        -*Zombie:* Corre en una direccion y al chocar contra una pared da la vuelta , si choca con el jugador le quita vida y da la vuelta tambien . Al morir deja un objeto que otorga puntos al jugador.
        
-       -*Zombie:*
+   -*Pantera:* Corre de lado a lado de una estancia y de forma aleatoria da saltos abalanzandose sobre lo que encuentre , al morir deja un objeto para el jugador.
        
        
