@@ -1,5 +1,5 @@
 # Castlevania I
-Poyecto final de la asignatura de Diseño de Videojuegos con tecnologias web.
+Proyecto final de la asignatura de Diseño de Videojuegos con tecnologias web.
 ## Introduccion al Juego
   **Año de publicación:** 1986.
   
