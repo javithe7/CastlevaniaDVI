@@ -31,6 +31,8 @@ Proyecto final de la asignatura de Diseño de Videojuegos con tecnologias web.
       
       -Arma a distancia: ataque secundario de nuestro jugador , util para eliminar enemigos a distancia , y especialmente importantes para la eliminacion de los bosses finales.
       
+   *Nota:* Estan implementadas la daga , el boomerang , el hacha parabolico como armas a distancia, no obstante solo esta en uso el hacha parabolico . Tanto la daga como el boomerang funcionan , pero debido a problemas a la hora de detectar teclas para implementar el cambio de armas y a la falta de tiempo , he optado por dejar en uso del protagonista solo el hacha parabolico y comentar las otras.
+      
    -**Mecanicas de los enemigos**   
    
      -Zombie: Corre en una direccion y al chocar contra una pared da la vuelta , si choca con el jugador le quita vida y da la vuelta tambien . Al morir deja un objeto que otorga puntos al jugador.
