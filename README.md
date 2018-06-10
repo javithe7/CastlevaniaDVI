@@ -33,27 +33,27 @@ Poyecto final de la asignatura de Diseño de Videojuegos con tecnologias web.
       
    -**Mecanicas de los enemigos**   
    
-     -*Zombie:* Corre en una direccion y al chocar contra una pared da la vuelta , si choca con el jugador le quita vida y da la vuelta tambien . Al morir deja un objeto que otorga puntos al jugador.
+     -Zombie: Corre en una direccion y al chocar contra una pared da la vuelta , si choca con el jugador le quita vida y da la vuelta tambien . Al morir deja un objeto que otorga puntos al jugador.
        
-    -*Pantera:* Corre de lado a lado de una estancia y de forma aleatoria da saltos abalanzandose sobre lo que encuentre , al morir deja un objeto para el jugador.
+    -Pantera: Corre de lado a lado de una estancia y de forma aleatoria da saltos abalanzandose sobre lo que encuentre , al morir deja un objeto para el jugador.
    
-    -*Serpiente:* Repta de lado a lado de una estancia y muere automaticamente al cabo de un tiempo , tambien deja un objeto y es un enemigo auxiliar del segundo boss.
+    -Serpiente: Repta de lado a lado de una estancia y muere automaticamente al cabo de un tiempo , tambien deja un objeto y es un enemigo auxiliar del segundo boss.
    
-    -*Lancero:* Patrulla de lado a lado y hace daño al jugador si este choca con el , al morir deja un objeto.
+    -Lancero: Patrulla de lado a lado y hace daño al jugador si este choca con el , al morir deja un objeto.
    
-    -*Hachero:* Se mueve de lado a lado y cambia su direccion aleatoriamente , cada cierto tiempo lanza una hacha boomerang 
+    -Hachero: Se mueve de lado a lado y cambia su direccion aleatoriamente , cada cierto tiempo lanza una hacha boomerang 
    
-    -*HombrePez:* Anda de lado a lado y cambia su direccion cada cierto tiempo , de la misma forma que cada cierto tiempo dispara una bola de fuego.
+    -HombrePez: Anda de lado a lado y cambia su direccion cada cierto tiempo , de la misma forma que cada cierto tiempo dispara una bola de fuego.
    
-    -*Enano:* Cada cierto tiempo da un salto de altura y anchura aleatoria , si cae sobre el jugador le hace daño y al morir tambien deja un objeto.
+    -Enano: Cada cierto tiempo da un salto de altura y anchura aleatoria , si cae sobre el jugador le hace daño y al morir tambien deja un objeto.
    
-    -*Murcielago:* Vuela de lado a lado de una estancia , y tambien deja un objeto al morir.
+    -Murcielago: Vuela de lado a lado de una estancia , y tambien deja un objeto al morir.
    
-    -*Cabeza de Medusa:* Vuela siguiendo una trayectoria sinusoidal en una direccion, tratando de hacer una embestida kamikaze al protagonista , solo muere si es golpeado por una arma a distancia y no deja objetos.
+    -Cabeza de Medusa: Vuela siguiendo una trayectoria sinusoidal en una direccion, tratando de hacer una embestida kamikaze al protagonista , solo muere si es golpeado por una arma a distancia y no deja objetos.
    
    -**Mecanicas de los Bosses**   
    
-     -*Super Murcielago:*
+     -Super Murcielago:
      
-     -*Medusa:*
+     -Medusa:
        
