@@ -79,10 +79,10 @@ Poyecto final de la asignatura de Diseño de Videojuegos con tecnologias web.
    
  ## 3-Equipo de trabajo
  
-    El juego ha sido realizado integra y unicamente por Javier Antón Alonso.
+    El juego ha sido realizado integra y unicamente por **Javier Antón Alonso**.
     
  ## 4-Fuentes y Referencias 
  
-   Sprite sheets obtenidos de [CastlevaniaCrypt](http://www.castlevaniacrypt.com/cv).
-   Musica obtenida de  [Youtube](https://www.youtube.com/watch?v=AIu4gRqhdlo&list=PL8475D168894529C1)
-   Efectos de sonido de [SoundResourcer](https://www.sounds-resource.com/nes/vania/).
+    -Sprite sheets obtenidos de [CastlevaniaCrypt](http://www.castlevaniacrypt.com/cv).
+    -Musica obtenida de  [Youtube](https://www.youtube.com/watch?v=AIu4gRqhdlo&list=PL8475D168894529C1)
+    -Efectos de sonido de [SoundResourcer](https://www.sounds-resource.com/nes/vania/).
